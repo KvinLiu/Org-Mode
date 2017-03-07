@@ -4,6 +4,9 @@
 *** 2016-10 Friday [1/2]
     - [X] Weekly review
     - [ ] Go grocery shopping
-*** 2016-11 Staurday [/]
-    - [ ] Reacord Screencast for Org-mode tutorilal
-    - [ ] Doing homework
+*** 2016-11 Staurday [5/5]
+    - [X] Reacord Screencast for Org-mode tutorilal
+    - [X] Doing homework
+    - [X] Write a chapter about coding
+    - [X] learing Python
+    - [X] Reading Noval
