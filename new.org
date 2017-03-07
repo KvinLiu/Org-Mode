@@ -1,0 +1,50 @@
+* Outliner
+  Text text text!
+** more items
+** yet more
+* Markup
+*Bold*, /italic/, =verbatim=, +strikethrough+
+
+- bulleted
+- list
+- items
+
+[[http:orgmode.og][Org-mode]]
+
+* Tables
+
+| some | data              |
+|------+-------------------|
+|   12 | buckle of my shoe |
+|   34 | shut the door     |
+
+* Export to other formats
+
+#+TITLE: A Gentle Interoduction to Org-mode
+#+Options: toc: nil
+
+* Source Code
+#+BEGIN_SRC javascript
+s  console.log("Hello World!")
+#+END_SRC
+
+#+BEGIN_SRC python
+  def hello():
+      print("Hello!")
+
+#+END_SRC
+
+* To do list
+** TODO teach how to
+** CANCELLED hea
+   CLOSED: [2018-03-14 Wed 15:37]
+   :LOGBOOK:
+   - State "NEXT"       from "DONE"       [2017-03-05 Sun 15:37]
+   - State "DONE"       from "PROJECT"    [2017-03-05 Sun 15:37]
+   - State "PROJECT"    from "DONE"       [2017-03-05 Sun 15:37]
+   - State "DONE"       from "PROJECT"    [2017-03-05 Sun 15:37]
+   - State "PROJECT"    from "DONE"       [2017-03-05 Sun 15:37]
+   - State "DONE"       from "NEXT"       [2017-03-05 Sun 15:37]
+   :END:
+** NEXT Lala Land
+   DEADLINE: <2017-03-31 Fri>

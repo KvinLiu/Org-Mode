@@ -1,0 +1,35 @@
+#+SEQ_TODO: NEXT(n) TODO(t) WAITING(w) SOMEDAY(s) PROJ(p) | DONE(d) CANCELLED(c)
+
+* GTD related things
+** NEXT Weekly reviews
+   SCHEDULED: <2017-03-10 Fri ++1w>
+   :LOGBOOK:
+   CLOCK: [2017-03-05 Sun 14:21]
+   :END:
+
+* Legal obligation
+** DONE Prepare tax declaration
+   CLOSED: [2017-03-06 Mon 22:49] DEADLINE: <2017-03-28 Tue> SCHEDULED: <2017-03-08 Tue>
+   - Collect all documents for your tax
+** TODO Call the tax lawyer after the documents were sent
+
+* Maintenance
+** NEXT Wash the car
+   SCHEDULED: <2017-03-09 Thu ++4w>
+   - Washing from outside and vacuum cleaing the inside
+** PROJ Repair bicycle
+   DEADLINE: <2017-03-13 Mon> SCHEDULED: <2017-03-22 Wed +1w>
+*** WAITING Delivery or spare part (chain)
+    I have the chain ordered, needs to be delieverd
+*** TODO Mount chain
+    You probably need to re adjust the gear shifting
+
+* Family business
+** NEXT Get a birthday gift for wife
+** NEXT Watch concert of your kid in school
+   SCHEDULED: <2017-03-31 Fri 16:00-17:00>
+   - Don't miss that, otherwise kid is disappointed
+
+* House stuff
+** SOMEDAY Build a bike port in the garden
+   Budget is $200 for the whole thing
